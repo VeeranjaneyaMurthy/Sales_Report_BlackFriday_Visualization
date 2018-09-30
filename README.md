@@ -21,6 +21,6 @@ import plotly
 *Used a Dataset of BlackFriday from Kaggle which is the sales report on BlackFriday
 *Layout of the complete app
 *Inserting the datatable on the page
-*Excellent Visualizations using the plotly
+*Excellent Visualizations using the plotly.
 
 
