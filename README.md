@@ -23,4 +23,12 @@ import plotly
 *Inserting the datatable on the page
 *Excellent Visualizations using the plotly.
 
+#execution.
+*Prefered to compile the code on the cmd or terminal  rather than other enviromnets.
+*Make sure you can installed all the packages.
+*Run it in the local host :http://127.0.0.1:8050/
+
+#Output:
+*Interactive Graphs along with data table to manipulate and filter the data accordingly.
+*Screenshot uploaded with the code.
 
